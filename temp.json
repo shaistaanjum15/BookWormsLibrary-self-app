@@ -1,0 +1,130 @@
+
+   [
+    {
+      "category": "Fantasy",
+      "data": [
+        {
+        "title": "Percy Jackson",
+        "author":"Rick Riordan",
+        "description":"Twelve-year-old Percy Jackson is on the most dangerous quest of his life. With the help of a satyr and a daughter of Athena, Percy must journey across the United States to catch a thief who has stolen the original weapon of mass destruction — Zeus' master bolt.",
+        "category": "Fantasy"
+        },
+        {
+        "title": "Harry Potter",
+        "author":"J.K. Rowling",
+        "description":"It is a story about Harry Potter, an orphan brought up by his aunt and uncle because his parents were killed when he was a baby. Harry is unloved by his uncle and aunt but everything changes when he is invited to join Hogwarts School of Witchcraft and Wizardry and he finds out he's a wizard.",
+        "category": "Fantasy"
+        },
+        {
+        "title": "Mortal Instruments",
+        "author":"Cassandra Clare",
+        "description":"When fifteen-year-old Clary Fray heads out to the Pandemonium Club in New York City, she hardly expects to witness a murder― much less a murder committed by three teenagers covered with strange tattoos and brandishing bizarre weapons. Then the body disappears into thin air. It's hard to call the police when the murderers are invisible to everyone else and when there is nothing―not even a smear of blood―to show that a boy has died. Or was he a boy?",
+        "category": "Fantasy"
+        }
+      ]
+    },
+    {
+      "category": "Thriller",
+      "data": [
+        {
+        "title": "Hunger Games",
+        "author":"Suzanne Collins",
+        "description":"Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death. In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol.",
+        "category": "Thriller"
+        },
+        {
+        "title": "Divergent",
+        "author":"Veronica Roth",
+        "description":"In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is—she can't have both. So she makes a choice that surprises everyone, including herself",
+        "category": "Thriller"
+        },
+        {
+        "title": "The Perfect Murder",
+        "author":"H. R. F. Keating",
+        "description":"The story is told in the first person by a married man who has been having an affair with beautiful, 32-year-old Pimlico secretary Carla Moorland. After he sees another man leaving her flat, he assumes it's her lover and the two quarrel, ending in him accidentally striking her dead.",
+        "category": "Thriller"
+        }
+      ]
+    },
+    {
+      "category": "Fiction",
+      "data": [
+        {
+        "title": "The land of stories",
+        "author":"Chris Colfer",
+        "description":"Alex and Conner Bailey's world is about to change, in this fast-paced adventure that uniquely combines our modern day world with the enchanting realm of classic fairy tales.The Land of Stories tells the tale of twins Alex and Conner. Through the mysterious powers of a cherished book of stories, they leave their world behind and find themselves in a foreign land full of wonder and magic where they come face-to-face with the fairy tale characters they grew up reading about"
+        },
+        {
+        "title": "The fault in our stars",
+        "author":"John Green",
+        "description":"Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten."
+        },
+        {
+        "title": "Book Thief",
+        "author":"Markus Zusak",
+        "description":"It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.But these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down."
+        }
+      ]
+    },
+    {
+      "category": "Romance",
+      "data": [
+        {
+        "title": "The Selection",
+        "author":"Kiera Cass",
+        "description":"For thirty-five girls, the Selection is the chance of a lifetime. The opportunity to escape the life laid out for them since birth. To be swept up in a world of glittering gowns and priceless jewels. To live in a palace and compete for the heart of gorgeous Prince Maxon.But for America Singer, being Selected is a nightmare. It means turning her back on her secret love with Aspen, who is a caste below her. Leaving her home to enter a fierce competition for a crown she doesn't want. Living in a palace that is constantly threatened by violent rebel attacks.Then America meets Prince Maxon. Gradually, she starts to question all the plans she's made for herself—and realizes that the life she's always dreamed of may not compare to a future she never imagined."
+        },
+        {
+        "title": "Twilight",
+        "author":"Stephenie Meyer",
+        "description":"About three things I was absolutely positive.First, Edward was a vampire.Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite."
+        },
+        {
+        "title": "Pride and Prejudice",
+        "author":"Jane Austen",
+        "description":"Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry."
+        }
+      ]
+    },
+    {
+      "category": "Non-fiction",
+      "data": [
+        {
+        "title": "Stalingrad",
+        "author":"Antony Beaver",
+        "description":"The battle for Stalingrad became the focus of Hitler and Stalin's determination to win the gruesome, vicious war on the eastern front. The citizens of Stalingrad endured unimaginable hardship; the battle, with fierce hand-to-hand fighting in each room of each building, was brutally destructive to both armies."
+        },
+        {
+        "title": "In Cold Bloodr",
+        "author":"Truman Capote",
+        "description":"On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues."
+        },
+        {
+        "title": "Hiroshima",
+        "author":"John Hersey",
+        "description":"n August 6, 1945, Hiroshima was destroyed by the first atom bomb ever dropped on a city. This book, John Hersey's journalistic masterpiece, tells what happened on that day. Told through the memories of survivors, this timeless, powerful and compassionate document has become a classic that stirs the conscience of humanity"
+        }
+      ]
+    },
+    {
+      "category": "Classics",
+      "data": [
+        {
+        "title": "To kill a Mockingbird",
+        "author":"Harper Lee",
+        "description":"To Kill a Mockingbird is a novel by Harper Lee. ... Many residents of Maycomb are racists and during the novel Atticus is asked to defend Tom Robinson, a black man wrongly accused of raping a white woman. Atticus takes on the case even though everyone knows he has little hope of winning."
+        },
+        {
+        "title": "Little Women",
+        "author":"Louisa May Alcott",
+        "description":"Generations of readers young and old, male and female, have fallen in love with the March sisters of Louisa May Alcott’s most popular and enduring novel, Little Women. Here are talented tomboy and author-to-be Jo, tragically frail Beth, beautiful Meg, and romantic, spoiled Amy, united in their devotion to each other and their struggles to survive in New England during the Civil War."
+        },
+        {
+        "title": "Jane Eyre",
+        "author":"Charlotte Brontë",
+        "description":"Orphaned as a child, Jane has felt an outcast her whole young life. Her courage is tested once again when she arrives at Thornfield Hall, where she has been hired by the brooding, proud Edward Rochester to care for his ward Adèle. Jane finds herself drawn to his troubled yet kind spirit. She falls in love. Hard.But there is a terrifying secret inside the gloomy, forbidding Thornfield Hall. Is Rochester hiding from Jane? Will Jane be left heartbroken and exiled once again?"
+        }
+      ]
+    }
+  ]
+
